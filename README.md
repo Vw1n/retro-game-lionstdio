@@ -1,7 +1,7 @@
 # retro-game-lionstdio
 a retro games console 
 
-brief introduce:
+# brief introduction:
 - firmware based on retro-go integrated gba, dos simulator. add wired netplay, video player.
 ![Preview](assets/gba.jpg)
 ![Preview](assets/dos-s.mp4)
@@ -10,6 +10,9 @@ brief introduce:
 ![Preview](assets/ttf-s.mp4)
 - 3d print case without screw
 ![Preview](case/render.jpg)
+
+# notice:
+TBD
 
 # finished product:
 ![Preview](case/product.jpg)
