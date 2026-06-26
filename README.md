@@ -28,6 +28,6 @@ display without backlight, under sunshine effect \
 this work is based on below awesome open source projects
 - The retro-go is forked of the [retro-go](https://github.com/ducalex/retro-go) by ducalex and many others.
 - The dos simulator is forked of the [tiny386](https://github.com/hchunhui/tiny386) by hchunhui.
-
+- pcb desgin refer to [虾哥小智游戏机](https://oshwhub.com/wdmomo/xiaozhi201) by wdmomo
 # License
 Everything in this project is licensed under the [GPLv2 license](COPYING)
