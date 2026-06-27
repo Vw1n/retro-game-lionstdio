@@ -3,8 +3,8 @@ a retro games console
 
 # Brief introduction:
 ## firmware based on [retro-go](https://github.com/eaphone/retro-go) integrated gba, dos simulator. add wired netplay, video player.
-GBA, Dos simulator and video player 
-<img src="assets/new_feature.png" alt="" width="600">
+GBA, [Dos simulator](assets/dos-effect.gif) and video player.
+- <img src="assets/new_feature.png" alt="" width="600">
 | win95 runing on esp32 | LEGEND runing on esp32s3 | video player |
 | ---- | ---- | ---- |
 | <img src="assets/win95.jpg" alt="" width="200"> | <img src="assets/dos-s.gif" alt="" width="200"> | <img src="assets/videoPlayer-s.gif" alt="Videoplayer" width="200"> |
