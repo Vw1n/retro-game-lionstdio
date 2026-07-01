@@ -23,4 +23,8 @@ python rg_tool.py --target esp32-s3-devkit build-img
 python rg_tool.py --target esp32-s3-devkit build-img --no-networking
 
 # Flashing
-TBD
+- force device into download mode
+1. power off the device
+2. pull down the download pin (for esp32s3, press A; for esp32p4 press Up)
+3. pwoer on the device
+4. release the download pin
