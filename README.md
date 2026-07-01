@@ -3,8 +3,8 @@ a retro games console
 
 # Brief introduction:
 ## firmware based on [retro-go](https://github.com/eaphone/retro-go) integrated gba, dos simulator. add wired netplay, video player.
-GBA, Dos simulator and video player
-<img src="assets/new_feature.png" alt="" width="600">
+GBA, [Dos simulator](assets/dos-effect.gif) and video player.
+- <img src="assets/new_feature.png" alt="" width="600">
 | win95 runing on esp32 | LEGEND runing on esp32s3 | video player |
 | ---- | ---- | ---- |
 | <img src="assets/win95.jpg" alt="" width="200"> | <img src="assets/dos-s.gif" alt="" width="200"> | <img src="assets/videoPlayer-s.gif" alt="Videoplayer" width="200"> |
@@ -28,6 +28,7 @@ display without backlight, under sunshine effect \
 this work is based on below awesome open source projects
 - The retro-go is forked of the [retro-go](https://github.com/ducalex/retro-go) by ducalex and many others.
 - The dos simulator is forked of the [tiny386](https://github.com/hchunhui/tiny386) by hchunhui.
+- pcb desgin referred [虾哥小智游戏机](https://oshwhub.com/wdmomo/xiaozhi201) by wdmomo
 
 # License
 Everything in this project is licensed under the [GPLv2 license](COPYING)
